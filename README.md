@@ -26,6 +26,6 @@ Using the Alarms on the Excel File: "ALARMS.xlsx", you are required to design an
 - What Drawings or Diagrams (if any) are Present in the Technical Documentation that Related to this Alarm?
 
 ## Resources in this Repository:
-1. "MAN_32-40_IMO_TierIII–Marine_.pdf" -----> Diesel Engine Technical Manual
+1. "MAN_32-40_IMO_TierIII–Marine_.pdf" ------> Diesel Engine Technical Manual
 2. "MAN_32-40_Troubleshooting_Guide.pdf" --> Diesel Engine Troubleshooting Guide
-3. "ALARMS.xlsx" -------------------------------> List of Alarms of which to identify and answer the questions in "Task".
+3. "ALARMS.xlsx" --------------------------------> List of Alarms of which to identify and answer the questions in "Task".
