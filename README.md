@@ -1,5 +1,4 @@
 # UTS-Hackathon
-Files for Marintec Hackathon Challenge
 
 ## Scenario:
 A crew member on a naval ship encounters one or multiple alarms on the primary engine. They lack immediate access to an expert or the required technical documentation. Your system, which has ingested the required documentation and extracted the necessary insights, will provide a diagnosis and recommended actions.
